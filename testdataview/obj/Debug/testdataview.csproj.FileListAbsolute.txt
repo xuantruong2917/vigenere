@@ -1,0 +1,11 @@
+E:\room\C#\testdataview\testdataview\bin\Debug\testdataview.exe.config
+E:\room\C#\testdataview\testdataview\bin\Debug\testdataview.exe
+E:\room\C#\testdataview\testdataview\bin\Debug\testdataview.pdb
+E:\room\C#\testdataview\testdataview\obj\Debug\testdataview.csproj.AssemblyReference.cache
+E:\room\C#\testdataview\testdataview\obj\Debug\testdataview.csproj.SuggestedBindingRedirects.cache
+E:\room\C#\testdataview\testdataview\obj\Debug\testdataview.Form1.resources
+E:\room\C#\testdataview\testdataview\obj\Debug\testdataview.Properties.Resources.resources
+E:\room\C#\testdataview\testdataview\obj\Debug\testdataview.csproj.GenerateResource.cache
+E:\room\C#\testdataview\testdataview\obj\Debug\testdataview.csproj.CoreCompileInputs.cache
+E:\room\C#\testdataview\testdataview\obj\Debug\testdataview.exe
+E:\room\C#\testdataview\testdataview\obj\Debug\testdataview.pdb
